@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-deh6se.juragan89a.site/sitemap.xml
